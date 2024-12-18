@@ -53,6 +53,9 @@ Line 67: Comment/uncomment to permanently disable/enable the blue LED on board t
 
 Line 218: Comment/uncomment to disable/enable the flashing at the end of each data stream. Be careful: This only works if line 67 is enabled!
 
+Once you have the streams on MQTT you will be free to do what you want with them.
+My choice was that, now consolidated in my environment, to manage the variables with Node-Red, store them on InfuxDB and organize a Grafana dashboard for historical and real time visualization.
+
 License
 
 Creative Commons License
