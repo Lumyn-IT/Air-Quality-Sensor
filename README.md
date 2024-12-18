@@ -8,3 +8,20 @@ Unfortunately, it seems to me that this integrated circuit does not have the pos
 Furthermore, there is nothing on board that has to do with wifi.
 
 I describe in detail what I deduced from the analysis of the components and the article in general.
+
+The PMS5003 device performs a constant analysis of the surrounding air with a sampling rate of around 0.1L/min.
+The sensor is extremely reactive and the values ​​are updated approximately every 1sec.
+
+The idea is to equip the device with an ESP8266 to be able to manage streaming and publish the sampled variables on MQTT brokers.
+
+The hardware modifications will be extremely simple for anyone with a minimum of familiarity with electronics.
+Obviously I decline any responsibility for damage caused by the interventions described in this article.
+You will carry out each intervention at your own risk.
+
+The software part will also be extremely simple.
+
+But let's see in detail:
+
+Hardware
+
+Software
