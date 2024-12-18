@@ -54,14 +54,14 @@ Line 67: Comment/uncomment to permanently disable/enable the blue LED on board t
 Line 218: Comment/uncomment to disable/enable the flashing at the end of each data stream. Be careful: This only works if line 67 is enabled!
 
 License
+
 Creative Commons License
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. All previous commits from this one (3 sept 2022) are CC-BY-NC-ND and not CC-BY-NC-SA.
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
 Please check the Wiki
 
 Thanks
-Thanks to @pedrware for the photo of the mainboard and his explanations of some of the problems encountered.
-Thanks to ridiculouslab for his analysis of the serial protocol.
 
 Disclaimer
+
 THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
