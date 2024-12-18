@@ -1,6 +1,6 @@
 Air Quality Sensor PMS5003 MQTT mod ![ESP8266](https://img.shields.io/badge/ESP-8266-000000.svg?longCache=true&style=flat&colorA=CCCC33)
 
- 
+![image](https://github.com/user-attachments/assets/939eb407-66e7-4f9d-9fe3-f3c66a0d77e7)
 
 I got hold of this sensor for monitoring air quality.
 After days of testing, I found that it worked well for home use, well beyond expectations.
@@ -27,4 +27,4 @@ But let's see in detail:
 Hardware
 
 Software
-![image](https://github.com/user-attachments/assets/939eb407-66e7-4f9d-9fe3-f3c66a0d77e7)
+
