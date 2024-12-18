@@ -39,3 +39,11 @@ Nothing prevents you from changing them according to your needs, remembering how
 
 Below, for ease of use, I will report the individual lines of the sketch to pay attention to and correct for personal use of the project.
 
+Line 2: Correct with the pins you chose (especially in case of a different card).
+Line 5: Correct with the pin chosen for your am2120.
+Lines 19 and 20: Correct with your network credentials.
+Lines 34, 35, 36, 37 38 and 39: Correct with your MQTT Broker address, port, device, topic, username and password.
+Line 52: Comment/uncomment to disable/enable debug mode. (Debug is via serial monitor on your IDE).
+Line 67: Comment/uncomment to permanently disable/enable the blue LED on board the ESP8266.
+Line 218: Comment/uncomment to disable/enable the flashing at the end of each data stream. Be careful: This only works if line 67 is enabled!
+
