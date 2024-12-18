@@ -46,4 +46,3 @@ Lines 34, 35, 36, 37 38 and 39: Correct with your MQTT Broker address, port, dev
 Line 52: Comment/uncomment to disable/enable debug mode. (Debug is via serial monitor on your IDE).
 Line 67: Comment/uncomment to permanently disable/enable the blue LED on board the ESP8266.
 Line 218: Comment/uncomment to disable/enable the flashing at the end of each data stream. Be careful: This only works if line 67 is enabled!
-
