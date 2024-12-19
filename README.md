@@ -1,4 +1,4 @@
-Air Quality Sensor PMS5003 MQTT mod ![ESP8266](https://img.shields.io/badge/ESP-8266-000000.svg?longCache=true&style=flat&colorA=CCCC33)
+# Air Quality Sensor PMS5003 MQTT mod ![ESP8266](https://img.shields.io/badge/ESP-8266-000000.svg?longCache=true&style=flat&colorA=CCCC33)
 
 ![photo_2024-12-18_22-14-15](https://github.com/user-attachments/assets/1eaa0297-5751-43c2-9e29-b137f5b52150)
 
@@ -57,15 +57,15 @@ Line 218: Comment/uncomment to disable/enable the flashing at the end of each da
 Once you have the streams on MQTT you will be free to do what you want with them.
 My choice was that, now consolidated in my environment, to manage the variables with Node-Red, store them on InfuxDB and organize a Grafana dashboard for historical and real time visualization.
 
-License
+## License
 
 Creative Commons License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
-Please check the Wiki
+## Please check the Wiki
 
-Thanks
+## Thanks
 
-Disclaimer
+## Disclaimer
 
 THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
