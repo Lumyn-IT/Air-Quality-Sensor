@@ -26,6 +26,10 @@ But let's see in detail...
 
 The streaming of the individual sensors, the PMS5003 for particulate matter and the AM2120 for temperature and humidity are serial (PMS5003) and onewire bus (AM2120), cyclically interrogated by the processor on board the device.
 
+AM2120 Datashett: [AM2120](https://www.micros.com.pl/mediaserver/UPAM2120_0004.pdf)
+
+PMS5003 Datasheet: [PMS5003](https://www.digikey.jp/htmldatasheets/production/2903006/0/0/1/PMS5003-Series-Manual.pdf)
+
 I do not see any particular contraindications in sniffing the variables communicated by the individual sensors at the request of the processor, therefore, by intercepting the TX lines from the individual sensors and directing them towards the ESP8266 exactly as if they were sensors directly connected to it, it will be possible to receive the streaming and manage them with the ESP8266.
 The interventions to do this are described in the following photos.
 
@@ -65,6 +69,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 ## Please check the Wiki
 
 ## Thanks
+
+Thanks to ...
 
 ## Disclaimer
 
